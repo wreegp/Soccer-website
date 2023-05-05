@@ -1,0 +1,80 @@
+html {
+  background: url("img/1200x-1.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+h1 {
+  color: darkblue;
+
+  font-size: 60px;
+}
+
+p {
+  color: black;
+}
+
+.home1 {
+  font-size: 12px;
+}
+
+button {
+  background-color: skyblue;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: lightblue;
+  color: black;
+}
+
+.nav a {
+  margin: 0px 25px;
+  color: darkcyan;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.left3 {
+  text-align: center;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+input {
+  border-color: blue;
+}
+
+a {
+  color: yellowgreen;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.quote {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
